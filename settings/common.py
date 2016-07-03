@@ -177,6 +177,7 @@ WSGI_APPLICATION = 'wsgi.application'
 ATOMIC_REQUESTS = True
 TIME_ZONE = 'Asia/Kolkata'
 LANGUAGE_CODE = "en"
+
 USE_I18N = True
 USE_L10N = True
 USE_TZ = True
